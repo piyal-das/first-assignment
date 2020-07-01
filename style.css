@@ -1,0 +1,52 @@
+body{
+    margin: 0px;
+}
+.name-highlight{
+    font-size: 50px;
+    color: purple;
+}
+p{
+    color: dimgrey;
+}
+h2{
+    font-size: 40px;;
+}
+section{
+    height: 750px;
+    padding-bottom: 100px;
+    }
+.love{
+    width: 100%;
+}
+.move-text{
+    padding: 100px;
+}
+.first-part{
+        width: 40%;
+        float: left;
+        margin-left: 5%;
+        padding-left: 2%;
+}
+.header{
+    background-image: url("personal-website/header-bg.png");
+    
+    background-size: cover;
+ }
+ .anchor-tag{
+    text-decoration: none;
+    background-image: linear-gradient( hotpink, hotpink); 
+    border: 1px solid pink;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: aquamarine;
+    font-weight: 700;
+ }
+ .middle-section{
+     background-image: url("personal-website/biography-bg.png");
+     }
+.middle-part{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
